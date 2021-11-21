@@ -7,7 +7,7 @@
     </p>
 2. Distinguish the color for each ball.
     <p align="center"> 
-    <img src="./image/p2.png" alt="drawing" width="500"/>
+    <img src="./image/p1.png" alt="drawing" width="500"/>
     </p>
 3. Count the number of balls for each color.
     <p align="center"> 
